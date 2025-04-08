@@ -27,6 +27,13 @@
         "country": "US",
         "ip": "8.8.8.8"
       }
+    },
+    "trambtn":{
+      "roles": ["customer"],
+      "location": {
+        "country": "US",
+        "ip": "8.8.8.8"
+      }
     }
   },
   "role_permissions": {
