@@ -1,5 +1,12 @@
 {
   "users": {
+    "trambtn": {
+      "roles": ["admin"],
+      "location": {
+        "country": "US",
+        "ip": "8.8.8.8"
+      }
+    },
     "alice": {
       "roles": ["admin"],
       "location": {
