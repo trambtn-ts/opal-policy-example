@@ -1,6 +1,6 @@
 {
     "users": {
-      "tramngoc": {
+      "tram-test": {
         "roles": ["admin"],
         "location": {
           "country": "US",
